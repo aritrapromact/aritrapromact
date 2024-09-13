@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Aritra Ranjan
-- 👀 I’m interested in AI ML and Scientific Computing 
-- 🌱 I’m currently learning AI Technologies 
-- 📫 connect me on my official Email aritrachowdhury@promactinfo.com
-- ⚡ 
+- 🌐 Exploring the boundaries of technology is my passion.
+- 🧠 As an AI and Quantum Computing enthusiast, I find joy in learning and experimenting with the latest advancements.
+- 🌱 Always eager to learn, grow, and contribute to Data Analytics, Machine Learning, and Python development Projects.
+- 🎸 When not coding, I'm solving Rubik's cubes, strumming a guitar, or diving into Linux distros.
+- 🌌 Love to know about cosmic mysteries and always seeking to uncover hidden truths.
+- 🔭 Deeply interested into Quantum Field Theory and String Theory.
 
 <!---
 aritrapromact/aritrapromact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
