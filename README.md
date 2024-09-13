@@ -1,4 +1,5 @@
-- 🌐 Exploring the boundaries of technology is my passion.
+- 👋 Hi, I’m Aritra Ranjan
+- 👀 I’m interested in AI ML and Scientific Computing 
 - 🧠 As an AI and Quantum Computing enthusiast, I find joy in learning and experimenting with the latest advancements.
 - 🌱 Always eager to learn, grow, and contribute to Data Analytics, Machine Learning, and Python development Projects.
 - 🎸 When not coding, I'm solving Rubik's cubes, strumming a guitar, or diving into Linux distros.
